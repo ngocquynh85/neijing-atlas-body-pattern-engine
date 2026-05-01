@@ -1,0 +1,13 @@
+{
+  "journal_id": "demo-2026-05-01",
+  "language": "en",
+  "free_text": "Slept at 1:30am and woke tired. Hands were cold in the morning. I wanted hot coffee. Felt bloated after lunch and irritable in the afternoon. It was rainy and humid today.",
+  "structured_checkin": {
+    "sleep_time": "01:30",
+    "wake_energy": 3,
+    "digestion": ["bloating", "post_meal_heaviness"],
+    "temperature": ["cold_hands", "prefers_warm_drinks"],
+    "mood": ["irritable"],
+    "weather": ["rainy", "humid"]
+  }
+}

@@ -1,0 +1,13 @@
+[project]
+name = "neijing-atlas"
+version = "0.1.0"
+description = "Traditional body-pattern tracking and reflection framework inspired by Huangdi Neijing"
+requires-python = ">=3.10"
+authors = [{ name = "Ngoc Quynh Nguyen" }]
+readme = "README.md"
+
+[project.scripts]
+neijing-atlas = "neijing_atlas.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
