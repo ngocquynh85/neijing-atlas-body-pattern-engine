@@ -1,2 +1,0 @@
-[console_scripts]
-neijing-atlas = neijing_atlas.cli:main
